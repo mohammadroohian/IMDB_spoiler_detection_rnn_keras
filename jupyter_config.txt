@@ -1,0 +1,10 @@
+py_env_deep_learning
+lab
+local
+8888
+
+// read me!
+// line one: 	canda environment name
+// line tow: 	type of jupyter application	[notebook, lab]
+// line three:	is local host or on a ip 	[local, ip]
+// line four:	port of this jupyter instance	[8888, ...]
